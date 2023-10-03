@@ -1,0 +1,11 @@
+/* h1 , h2 , h3 , h4 , h5 , h6 , p, span {
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Playfair+Display:ital,wght@1,500&display=swap');
+
+} */
+
+
+@font-face {
+
+    font-family: Montserrat;
+    src: url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Playfair+Display:ital,wght@1,500&display=swap');
+   };
